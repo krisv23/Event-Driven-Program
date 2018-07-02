@@ -1,0 +1,11 @@
+180528180546, 22222  "W Is For Wasted - Sue Grafton" $9.95 2 0% $19.90, 5/28/2018 05:46:15 EDT
+180528180546, 69843  "CyberStorm - Matthew Mather" $10.50 2 0% $21.00, 5/28/2018 05:46:15 EDT
+180528180546, 23456  "14th Deadly Sin - James Patterson" $14.95 3 10% $40.36, 5/28/2018 05:46:15 EDT
+180528180553, 12277  "Y Is For Yesterday - Sue Grafton" $10.99 1 0% $10.99, 5/28/2018 05:53:41 EDT
+180528180553, 43786  "The Girl on the Train - Paula Hawkins" $9.99 2 0% $19.98, 5/28/2018 05:53:41 EDT
+180528180553, 45376  "The Apprentice - Tess Gerritsen" $9.99 2 10% $17.98, 5/28/2018 05:53:41 EDT
+180528180729, 69843  "CyberStorm - Matthew Mather" $10.50 1 0% $10.50, 5/28/2018 07:29:28 EDT
+180528180729, 43786  "The Girl on the Train - Paula Hawkins" $9.99 1 0% $9.99, 5/28/2018 07:29:28 EDT
+180528180729, 12123  "X - Sue Grafton" $9.99 1 0% $9.99, 5/28/2018 07:29:28 EDT
+
+180528180729, 89891  "Turbo Twenty-three - Janet Evanovich" $8.99 1 0% $8.99, 5/28/2018 07:29:28 EDT
